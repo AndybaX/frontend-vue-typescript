@@ -16,6 +16,7 @@
               <p>
                 Create a list anonymously or login to save, manage, and edit
                 your lists.
+                // TODO #56 add a site description  
               </p>
             </div>
           </div>
